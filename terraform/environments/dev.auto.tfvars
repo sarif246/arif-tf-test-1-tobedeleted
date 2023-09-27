@@ -1,1 +1,1 @@
-name = "arif from tfvars"
+name = "arif_from_tfvars"
